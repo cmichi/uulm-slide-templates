@@ -3,7 +3,8 @@
 This is an adaption of the
 [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
 developed by Google (based on the trunk code from February 16, 2014). 
-I have adapted the slides for university presentations, which I held.
+I have adapted the slides for university presentations, which I held, by
+means of style and additional slides.
 The result is a template `template-uulm.html`, which you can view
 [here](http://cmichi.github.io/uulm-slide-templates/template-uulm.html).
 
