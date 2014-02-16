@@ -43,3 +43,8 @@ table th {
   background: -o-linear-gradient(top, #A32638 40%, #A32638 80%) no-repeat;
   background: linear-gradient(top, #A32638 40%, #A32638 80%) no-repeat;
 }
+
+.uni-red {
+  color: #A32638;
+}
+
