@@ -1,8 +1,5 @@
 # HTML5 University of Ulm Slide Templates
 
-**Project status:** WIP -- I am still transferring the slides from my
-talks into this template. Will be done shortly.
-
 This is an adaption of the
 [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
 developed by Google (based on the trunk code from February 16, 2014). 
