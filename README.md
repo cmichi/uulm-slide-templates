@@ -1,52 +1,20 @@
-<style>
-@import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
-body {
-  font-family: "Open Sans";
-  margin: 6em 2em 2em 2em;
-}
-body:before {
-  content: '';
-  position: fixed;
-  top: 2%;
-  right: 3%;
-  height: 100px;
-  width: 100px;
-  background: url(http://www.html5rocks.com/static/images/identity/HTML5_Badge_128.png) no-repeat 50% 50%;
-  background-size: contain;
-  z-index: 10;
-  opacity: 0.1;
-}
-h1, h2, h3, h4 {
-  font-weight: 600;
-}
-h1 {
-  position: fixed;
-  background: -webkit-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -moz-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -ms-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  background: -o-linear-gradient(top, white 65%, rgba(255,255,255,0));
-  width: 100%;
-  height: 80px;
-  padding: 10px 10px 10px 1em;
-  left: 0;
-  top: 0;
-  margin: 0;
-}
-h1 img {
-  height: 30px;
-  vertical-align: middle;
-  margin-bottom: 8px;
-}
-a { color: navy; }
-pre {
-  background: #eee;
-  margin-left: 2em;
-  padding: 5px;
-  border-left: 3px solid #ccc;
-}
-</style>
+ # HTML5 University of Ulm Slide Templates
 
-<h1><img src="images/io2012_logo.png"> HTML5 Slide Template</h1>
+This is an adaption of the
+[io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
+developed by Google (based on the trunk code from February 16, 2014). 
+
+I have adapted the slides for university presentations, which I held.
+The result are two templates: 
+
+	template-mi.html	Institute of Media Informatics
+	template-vs.html	Institute of Distributed Systems
+
+For general instructions on how to use the template see the text below
+or watch this [video](https://www.youtube.com/watch?v=WRvECXyWj80).
+
+
+# Original Google Description
 
 ## Configuring the slides
 
