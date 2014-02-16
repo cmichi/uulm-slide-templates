@@ -99,3 +99,9 @@ Presenter mode is sticky, so refreshing the page will persist your settings.
 ---
 
 That's all she wrote!
+
+
+## License
+
+The code is licensed under the [Apache License
+2.0](http://www.apache.org/licenses/LICENSE-2.0).
