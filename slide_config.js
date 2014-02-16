@@ -23,7 +23,7 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Firstname Lastname',
-    company: 'University Ulm',
+    company: 'University of Ulm',
     gplus: 'http://plus.google.com/1234567890',
     twitter: '@yourhandle',
     www: 'http://www.you.com',

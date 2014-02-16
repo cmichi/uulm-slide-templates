@@ -1,13 +1,17 @@
 # HTML5 University of Ulm Slide Templates
 
+**Project status:** WIP -- I am still transferring the slides from my
+talks into this template. Will be done shortly.
+
 This is an adaption of the
 [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
 developed by Google (based on the trunk code from February 16, 2014). 
 I have adapted the slides for university presentations, which I held.
-The result are two templates: 
-
-	template-mi.html	Institute of Media Informatics
-	template-vs.html	Institute of Distributed Systems
+The result is a template `template-uulm.html`. 
+You can view it 
+[here](http://cmichi.github.io/uulm-slide-templates/template-mi.html).
+It contains logos for the Institute of Media Informatics and the
+Institute of Distributed Systems.
 
 For general instructions on how to use the template see the text below
 or watch this [video](https://www.youtube.com/watch?v=WRvECXyWj80).
