@@ -20,7 +20,7 @@ pre.questions {
 slides > slide:not(.nobackground):before {
   bottom: 20px;
   left: 60px;
-  background: url(../../images/uulm-vs-128.png) no-repeat 0 50%;
+  background: url(../../images/slide-institute/uulm-128.png) no-repeat 0 50%;
   -webkit-background-size: 74px 30px;
   -moz-background-size: 74px 30px;
   -o-background-size: 74px 30px;

@@ -7,11 +7,14 @@ This is an adaption of the
 [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
 developed by Google (based on the trunk code from February 16, 2014). 
 I have adapted the slides for university presentations, which I held.
-The result is a template `template-uulm.html`. 
-You can view it 
+
+The result is a template `template-uulm.html`, which you can view
 [here](http://cmichi.github.io/uulm-slide-templates/template-mi.html).
-It contains logos for the Institute of Media Informatics and the
-Institute of Distributed Systems.
+
+The template fits the *Institute of Media Informatics* and the
+*Institute of Distributed Systems*. To change the institute which is
+displayed in the slides just rename the folder `images/slide-institute-mi`
+to `images/slide-institute`.
 
 For general instructions on how to use the template see the text below
 or watch this [video](https://www.youtube.com/watch?v=WRvECXyWj80).
