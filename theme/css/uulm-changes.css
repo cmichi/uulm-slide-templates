@@ -48,3 +48,10 @@ table th {
   color: #A32638;
 }
 
+.source {
+	bottom: 50px;
+}
+
+footer.white a {
+	color: #fff !important;
+}
