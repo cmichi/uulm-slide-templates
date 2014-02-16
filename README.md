@@ -1,9 +1,8 @@
- # HTML5 University of Ulm Slide Templates
+# HTML5 University of Ulm Slide Templates
 
 This is an adaption of the
 [io-2012-slides](https://code.google.com/p/io-2012-slides/), originally
 developed by Google (based on the trunk code from February 16, 2014). 
-
 I have adapted the slides for university presentations, which I held.
 The result are two templates: 
 
@@ -14,16 +13,16 @@ For general instructions on how to use the template see the text below
 or watch this [video](https://www.youtube.com/watch?v=WRvECXyWj80).
 
 
-# Original Google Description
+## Original Google Description
 
-## Configuring the slides
+### Configuring the slides
 
 Much of the deck is customized by changing the settings in [`slide_config.js`](slide_config.js).
 Some of the customizations include the title, Analytics tracking ID, speaker
 information (name, social urls, blog), web fonts to load, themes, and other
 general behavior.
 
-### Customizing the `#io12` hash
+#### Customizing the `#io12` hash
 
 The bottom of the slides include `#io12` by default. If you'd like to change
 this, please update the variable `$social-tags: '#io12';` in
@@ -31,7 +30,7 @@ this, please update the variable `$social-tags: '#io12';` in
 
 See the next section on "Editing CSS" before you go editing things.
 
-## Editing CSS
+### Editing CSS
 
 [Compass](http://compass-style.org/install/) is a CSS preprocessor used to compile
 SCSS/SASS into CSS. We chose SCSS for the new slide deck for maintainability,
@@ -42,7 +41,7 @@ new, not a problem. The generated .css files can already be found in
 (see [`/theme/css`](theme/css)). You can just edit those and bypass SCSS altogether.
 However, our recommendation is to use Compass. It's super easy to install and use.
 
-### Installing Compass and making changes
+#### Installing Compass and making changes
 
 First, install compass:
 
@@ -66,7 +65,7 @@ run watch with the style output flag:
 
 *Note:* You should not need to edit [`_base.scss`](theme/scss/_base.scss).
 
-## Running the slides
+### Running the slides
 
 The slides can be run locally from `file://` making development easy :)
 
