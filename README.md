@@ -10,7 +10,7 @@ The result is a template `template-uulm.html`, which you can view
 
 The template contains the logos of the *Institute of Media Informatics* 
 and the *Institute of Distributed Systems*. To change the institute which is
-displayed in the slides just rename the folder `images/slide-institute-mi`
+displayed, just rename the folder `images/slide-institute-mi`
 to `images/slide-institute`. 
 
 For general instructions on how to use the template see the text below
