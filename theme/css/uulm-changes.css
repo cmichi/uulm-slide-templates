@@ -55,3 +55,7 @@ table th {
 footer.white a {
 	color: #fff !important;
 }
+
+slides > slide > article:only-child > iframe {
+	height: 90% !important;
+}

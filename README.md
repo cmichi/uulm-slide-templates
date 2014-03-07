@@ -8,6 +8,8 @@ means of style and additional slides.
 The result is a template `template-uulm.html`, which you can view
 [here](http://cmichi.github.io/uulm-slide-templates/template-uulm.html).
 
+## Institute logos
+
 The template contains the logos of the *Institute of Media Informatics* 
 and the *Institute of Distributed Systems*. To change the institute which is
 displayed, just rename the folder `images/slide-institute-mi`
